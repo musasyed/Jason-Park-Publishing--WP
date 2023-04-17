@@ -1,1 +1,3 @@
 # Jason-Park-Publishing--WP
+"I designed a business website for Jason Park Publishing using WordPress, tailored specifically for publishing books and other written works. The website features an elegant design with a user-friendly interface to showcase Jason Park's portfolio and books, as well as to engage with readers and potential clients. The site includes an easy-to-use content management system for updates and additions, along with secure payment options for e-commerce transactions. With its streamlined design and robust functionality, the Jason Park Publishing website provides an ideal platform for both marketing and selling written works."
+Check out the website: https://jasonwpark.com/
